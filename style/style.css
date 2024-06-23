@@ -1,0 +1,29 @@
+@charset "UTF-8"; 
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-principal: #2D4B4B;
+    --cor-destaque: #04b861;
+    --fundo: #FAFAFA;
+    --font: "Vollkorn", Georgia, 'Times New Roman', Times, serif;
+
+}
+
+header {
+    background-color: var(--cor-principal);
+}
+
+header h1 {
+    font-family: var(--font);
+}
+
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
