@@ -14,16 +14,32 @@
 
 }
 
+body {
+    background-color: var(--fundo);
+}
+
 header {
+    padding: 20px;
     background-color: var(--cor-principal);
 }
 
 header h1 {
+    display: inline;
     font-family: var(--font);
+}
+
+span {
+    color: var(--cor-destaque);
+}
+
+nav {
+    display: inline;
+    margin-left: 600px;
 }
 
 
 nav a {
+    padding: 10px;
     color: #FFFFFF;
     text-decoration: none;
 }
