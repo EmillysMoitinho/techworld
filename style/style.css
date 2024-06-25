@@ -71,17 +71,15 @@ main {
 #body p {
     font-size: 1.2em;
     padding: 20px 0px 0px 0px;
+    margin-bottom: 30px;
 }
 
 #conteudo-adicional {
-    
-} 
-
-#conteudo-adicional img {
-    margin-top: 30px;
+    display: flex;
 }
 
 #conteudo-adicional p {
-    display: inline;
-
+    font-size: 1.2em;
+    padding: 20px;
 }
+    
