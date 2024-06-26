@@ -116,11 +116,12 @@ main {
     margin-bottom: 20px;
 }
 
-#lateral-esquerdo {
-    position: relative;
-}
-
-#lateral-esquerdo img{
-    background-color: #FFFFFF;
+#green {
+    color: #FFFFFF;
+    background-color: var(--cor-principal);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
 }
 
