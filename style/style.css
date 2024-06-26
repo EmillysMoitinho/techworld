@@ -116,3 +116,11 @@ main {
     margin-bottom: 20px;
 }
 
+#lateral-esquerdo {
+    position: relative;
+}
+
+#lateral-esquerdo img{
+    background-color: #FFFFFF;
+}
+
