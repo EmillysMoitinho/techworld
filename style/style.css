@@ -19,29 +19,28 @@ body {
 }
 
 header {
+    display: grid;
+    grid-template-columns: 1fr 0.2fr;
     padding: 20px;
-    background-color: var(--cor-principal);
+    background-color: var(--cor-principal)
 }
 
-header h1 {
+#nav {
+    margin-top: 20px;
+}
+
+#nav > ul {
+    margin: 0;
+    padding: 0;
+}
+
+#nav > li {
     display: inline;
-    font-size: 25px;
-    color: rgb(122, 122, 122);
-    text-transform: uppercase;
-    font-family: var(--font);
-}
-
-span {
-    color: var(--cor-destaque);
-}
-
-nav {
-    display: inline;
-    margin-left: 1090px;
+    list-style: none;
 }
 
 
-nav a {
+#nav a {
     background-color: #2338383b;
     padding: 10px;
     color: #FFFFFF;
