@@ -1,5 +1,5 @@
-# Tech World 🌐
-Tech World oferece informações detalhadas sobre as principais tecnologias usadas no desenvolvimento web. O site é dividido em seções dedicadas a cada tecnologia, com explicações claras e exemplos práticos. 
+# EXERCÍCIO TECH WORLD 🌐
+Tech World foi desenvolvido com o objetivo de fornecer uma fonte de aprendizado. Este projeto foi desenvolvido por mim no Academy One, utilizando apenas HTML e CSS.
 
 Link para a visualização do site: [Tech World](https://emillysmoitinho.github.io/techworld/)
 
@@ -7,6 +7,9 @@ Link para a visualização do site: [Tech World](https://emillysmoitinho.github.
 * HTML
 * CSS
 
----
+## Descrição do Projeto
+O exercício proposto pelo Academy One consiste na criação do layout a seguir, seguindo as premissas
+de design com HTML e CSS. O layout foi criado mesclando os displays GRID e FLEX, com maior
+ênfase no grid.
 
-Este projeto foi desenvolvido com o objetivo de fornecer uma fonte de aprendizado acessível para desenvolvedores iniciantes e intermediários. As tecnologias abordadas são explicadas de maneira clara e objetiva, com exemplos práticos e recursos adicionais para aprofundar seu conhecimento.
+![Texto Alternativo](img/tela.jpeg)
