@@ -200,6 +200,97 @@ footer {
     text-align: center;
 }
 
+@media (max-width: 450px) {
+
+    html,body {
+        width: 100vw;
+        overflow-x: hidden;
+    }
+
+    main {
+        display: flex;
+        width: 100vw;
+    }
+
+    #nav {
+        margin-left: 45px;
+    }
+
+    header {
+        display: flex;
+        width: 100vw;
+    }
+    
+    #main-content {
+        display: block;
+        width: 100vw;
+    }
+
+    #description-section p {
+        font-size: 22px;
+    }
+
+    #additional-content-section {
+        display: block;
+    }
+
+    #left-content-aside img {
+        width: 350px;
+    }
+    
+
+    #left-content-aside p {
+        font-size: 22px;
+    }
+
+    #right-content-aside {
+        padding: 0;
+    }
+
+    #right-content-aside p {
+        padding: 0;
+        font-size: 22px;
+        margin-top: 50px;
+    }
+
+    #right-content-aside img {
+        width: 350px;
+        margin: auto;
+        margin-top: 50px;
+    }
+
+    #quote-section {
+        width: 350px;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    #extra-info-section {
+        display: block;
+    }
+
+    #left-info-box {
+        height: 180px;
+        width: 260px;
+        border-radius: 5px;
+        padding: 50px;
+    }
+
+    #right-info-box {
+        font-size: 22px;
+        padding-left: 0;
+        width: 370px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    picture img {
+        width: 330px;
+        border-radius: 5px;
+    }
+
+ }
+
 /* @media screen (max-width: 768px){
 
     body {
